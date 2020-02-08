@@ -8,6 +8,13 @@ The core PureScript GitHub organization exists to maintain and develop:
 *   Documentation
 *   Package Sets
 
+# Project Values
+
+- PureScript is industrially focused; it is not a vehicle for programming language research. Consequently, stability is a high priority. Feature requests which have a large impact on downstream code are unlikely to be accepted.
+- Prefer fewer, more powerful features to many special-purpose ones. With a smaller feature set, things are easier to document, the implementation is easier to understand and work with, and features are less likely to interact poorly with one another.
+- Prefer to move slowly and consider decisions carefully, especially if they are likely to have a long-term impact.
+- If it is possible to adequately solve a need downstream of the compiler and/or core libraries, we are unlikely to add features for solving that need inside the compiler and/or core libraries.
+
 # Core Owners
 
 Organization ownership is primarily predicated on having commit access to the
