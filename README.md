@@ -52,10 +52,6 @@ Core owners have demonstrated a long-term commitment to maintaining the
 compiler, maintaining the standard library, and engaging with the language
 community as a whole.
 
-Core collaborators may be promoted to owners at the discretion of the rest of
-the owners. Core owners may choose to step down and leave the organization at
-any time.
-
 Core owners are expected to use their privileges responsibly, in order to guide
 the development of the language, compiler, and core libraries in a way that
 they feel best serves the community as a whole.
