@@ -83,6 +83,11 @@ following ways (or however else they see fit):
 *   Sending PRs
 *   Reviewing PRs
 
+### Role Changes
+
+*   Core owners may choose to step down and leave the organization at any time.
+*   Core collaborators may be promoted to owners at the discretion of the rest of the owners.
+
 ## Making Decisions
 
 Most decisions which directly concern the language, compiler, or core libraries
