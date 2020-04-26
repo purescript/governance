@@ -97,6 +97,7 @@ to:
 *   Concerns raised during pull request review
 *   Adding new collaborators
 *   Promoting collaborators to owners
+*   Changes to governance
 
 For a decision to be made, it should receive the approval of all core owners
 who choose to participate in the discussion. In essence, every core owner has a
