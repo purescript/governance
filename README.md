@@ -85,7 +85,7 @@ following ways (or however else they see fit):
 
 ### Role Changes
 
-*   Core owners may choose to step down and leave the organization at any time.
+*   Core owners may choose to step down and become core collaborators, or choose leave to leave the organization entirely, at any time.
 *   Core collaborators may be promoted to owners at the discretion of the rest of the owners.
 
 ## Making Decisions
@@ -108,7 +108,11 @@ Not all core owners are required to participate in every discussion -- it is
 expected that most discussions will only involve a subset of the core owners.
 Before any particular decision is finalized, sufficient time should be given so
 that people have an opportunity to object, especially for decisions which would
-be difficult to reverse later.
+be difficult to reverse later. In general, the length of time that is
+considered "sufficient" depends on the magnitude of the decision, and core
+owners are expected to use their judgement. If a month has passed since the
+first approval by a core owner, and no other core owners have objected in that
+time, a decision can always be considered to have been approved.
 
 Core owners have the final say in decisions, although they are expected to be
 receptive to the needs of the wider community.
