@@ -85,7 +85,7 @@ following ways (or however else they see fit):
 
 ### Role Changes
 
-*   Core owners may choose to step down and become core collaborators, or choose leave to leave the organization entirely, at any time.
+*   Core owners may choose to step down and become core collaborators, or choose to leave the organization entirely, at any time.
 *   Core collaborators may be promoted to owners at the discretion of the rest of the owners.
 
 ## Making Decisions
