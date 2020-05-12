@@ -34,7 +34,7 @@ exists to maintain and develop:
 
 ### Core Team Members
 
-The core organization team members lead the development of the language, compiler,
+The core team leads the development of the language, compiler,
 and core libraries. Since the language is defined by its implementation, the
 compiler project and associated responsibilities are what largely shape its
 direction and development.
