@@ -32,14 +32,14 @@ exists to maintain and develop:
 
 ## Roles
 
-### Core Owners
+### Core Team Members
 
-The core organization owners lead the development of the language, compiler,
+The core team leads the development of the language, compiler,
 and core libraries. Since the language is defined by its implementation, the
 compiler project and associated responsibilities are what largely shape its
 direction and development.
 
-The core organization owners are:
+The core organization team members are:
 
 *   Harry Garrood (@hdgarrood)
 *   Gary Burgess (@garyb)
@@ -48,23 +48,23 @@ The core organization owners are:
 *   Hardy Jones (@joneshf)
 *   Nathan Faubion (@natefaubion)
 
-Core owners have demonstrated a long-term commitment to maintaining the
+Core team members have demonstrated a long-term commitment to maintaining the
 compiler, maintaining the standard library, and engaging with the language
 community as a whole.
 
-Core owners are expected to use their privileges responsibly, in order to guide
+Core team members are expected to use their privileges responsibly, in order to guide
 the development of the language, compiler, and core libraries in a way that
 they feel best serves the community as a whole.
 
-Core ownership is not predicated on responding to issues or pull requests in
-any given timeframe; core owners may choose to involve themselves in the
+Core team membership is not predicated on responding to issues or pull requests in
+any given timeframe; core team members may choose to involve themselves in the
 development of the language, compiler, and libraries to whatever extent they
 wish to. The reasoning for this is that we don't want any given maintainer to
 feel pressured to do things that their life and schedules don't permit.
 
 ### Core Collaborators
 
-Core owners may extend commit access on a project basis to those that have
+Core team members may extend commit access on a project basis to those that have
 expressed interest in maintaining a subset of the organization. Collaborators
 include:
 
@@ -85,41 +85,41 @@ following ways (or however else they see fit):
 
 ### Role Changes
 
-*   Core owners may choose to step down and become core collaborators, or choose to leave the organization entirely, at any time.
-*   Core collaborators may be promoted to owners at the discretion of the rest of the owners.
+*   Core team members may choose to step down and become core collaborators, or choose to leave the organization entirely, at any time.
+*   Core collaborators may be promoted to core team members at the discretion of the rest of the core team members.
 
 ## Making Decisions
 
 Most decisions which directly concern the language, compiler, or core libraries
-should receive the approval of the core owners. For example, this would apply
+should receive the approval of the core team members. For example, this would apply
 to:
 
 *   Feature requests
 *   Concerns raised during pull request review
 *   Adding new collaborators
-*   Promoting collaborators to owners
+*   Promoting collaborators to core team members
 *   Changes to governance
 
-For a decision to be made, it should receive the approval of all core owners
+For a decision to be made, it should receive the approval of all core team members
 who choose to participate in the discussion. In essence, every core owner has a
 veto (which they are expected to use responsibly).
 
-Not all core owners are required to participate in every discussion -- it is
-expected that most discussions will only involve a subset of the core owners.
+Not all core team members are required to participate in every discussion -- it is
+expected that most discussions will only involve a subset of the core team members.
 Before any particular decision is finalized, sufficient time should be given so
 that people have an opportunity to object, especially for decisions which would
 be difficult to reverse later. In general, the length of time that is
 considered "sufficient" depends on the magnitude of the decision, and core
-owners are expected to use their judgement. If a month has passed since the
-first approval by a core owner, and no other core owners have objected in that
+core team members are expected to use their judgement. If a month has passed since the
+first approval by a core owner, and no other core team members have objected in that
 time, a decision can always be considered to have been approved.
 
-Core owners have the final say in decisions, although they are expected to be
+Core team members have the final say in decisions, although they are expected to be
 receptive to the needs of the wider community.
 
 ## Pull Requests
 
 Pull requests on the compiler and core library repositories should receive
-approving code reviews from at least two core owners before merging. For pull
-requests which have been made by core owners, only one other core owner's
+approving code reviews from at least two core team members before merging. For pull
+requests which have been made by core team members, only one other core owner's
 approval is required.
