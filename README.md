@@ -47,14 +47,20 @@ The core organization team members are:
 *   Christoph Hegemann (@kritzcreek)
 *   Hardy Jones (@joneshf)
 *   Nathan Faubion (@natefaubion)
+*   Cyril Sobierajewicz (@kl0tl)
+*   Fabrizio Ferrai (@f-f)
+*   Jordan Martinez (@JordanMartinez)
+*   Nicholas Scheel (@MonoidMusician)
+*   Thomas Honeyman (@thomashoneyman)
 
-Core team members have demonstrated a long-term commitment to maintaining the
-compiler, maintaining the standard library, and engaging with the language
-community as a whole.
+Core team members have demonstrated a long-term commitment to maintaining
+central components of the ecosystem such as the compiler, core libraries,
+tooling, or documentation resources, as well as engaging with the community as
+a whole.
 
-Core team members are expected to use their privileges responsibly, in order to guide
-the development of the language, compiler, and core libraries in a way that
-they feel best serves the community as a whole.
+Core team members are expected to use their privileges responsibly, in order to
+guide the development of the language, compiler, and core libraries in a way
+that they feel best serves the community as a whole.
 
 Core team membership is not predicated on responding to issues or pull requests in
 any given timeframe; core team members may choose to involve themselves in the
@@ -69,9 +75,19 @@ expressed interest in maintaining a subset of the organization. Collaborators
 include:
 
 *   Alex Berg (@chexxor) - Documentation, Infrastructure
-*   Thomas Honeyman (@thomashoneyman) - Infrastructure
 *   Justin Woo (@justinwoo) - Package Sets
-*   Fabrizio Ferrai (@f-f) - Package Sets
+*   @btrepp - Spago
+*   Dennis Gosnell (@cdepillabout) - Spago
+*   Gareth Smith (@Dretch) - Spago
+*   Eric Ahlberg (@eahlberg) - Spago
+*   Elliot Davies (@elliotdavies) - Spago
+*   eric (@ethul) - Core libraries
+*   Jan Hrcek (@jhrcek) - Spago
+*   Vladimir Kalnitsky (@klntsky) - Spago
+*   Nicholas Wolverson (@nwolverson) - Spago
+*   Ryan Hendrickson (@rhendric) - Compiler
+*   Steve Baker (@stkb) - Spago
+*   Valtteri Pajunen (@vapaj) - Spago
 
 Collaborators are encouraged to help out with maintenance in any of the
 following ways (or however else they see fit):
