@@ -41,17 +41,17 @@ direction and development.
 
 The core organization team members are:
 
-*   Harry Garrood (@hdgarrood)
-*   Gary Burgess (@garyb)
-*   Liam Goodacre (@LiamGoodacre)
-*   Christoph Hegemann (@kritzcreek)
-*   Hardy Jones (@joneshf)
-*   Nathan Faubion (@natefaubion)
-*   Cyril Sobierajewicz (@kl0tl)
-*   Fabrizio Ferrai (@f-f)
-*   Jordan Martinez (@JordanMartinez)
-*   Nicholas Scheel (@MonoidMusician)
-*   Thomas Honeyman (@thomashoneyman)
+*   Harry Garrood ([@hdgarrood](https://github.com/hdgarrood))
+*   Gary Burgess ([@garyb](https://github.com/garyb))
+*   Liam Goodacre ([@LiamGoodacre](https://github.com/LiamGoodacre))
+*   Christoph Hegemann ([@kritzcreek](https://github.com/kritzcreek))
+*   Hardy Jones ([@joneshf](https://github.com/joneshf))
+*   Nathan Faubion ([@natefaubion](https://github.com/natefaubion))
+*   Cyril Sobierajewicz ([@kl0tl](https://github.com/kl0tl))
+*   Fabrizio Ferrai ([@f-f](https://github.com/f-f))
+*   Jordan Martinez ([@JordanMartinez](https://github.com/JordanMartinez))
+*   Nicholas Scheel ([@MonoidMusician](https://github.com/MonoidMusician))
+*   Thomas Honeyman ([@thomashoneyman](https://github.com/thomashoneyman))
 
 Core team members have demonstrated a long-term commitment to maintaining
 central components of the ecosystem such as the compiler, core libraries,
@@ -74,20 +74,20 @@ Core team members may extend commit access on a project basis to those that have
 expressed interest in maintaining a subset of the organization. Collaborators
 include:
 
-*   Alex Berg (@chexxor) - Documentation, Infrastructure
-*   Justin Woo (@justinwoo) - Package Sets
-*   @btrepp - Spago
-*   Dennis Gosnell (@cdepillabout) - Spago
-*   Gareth Smith (@Dretch) - Spago
-*   Eric Ahlberg (@eahlberg) - Spago
-*   Elliot Davies (@elliotdavies) - Spago
-*   eric (@ethul) - Core libraries
-*   Jan Hrcek (@jhrcek) - Spago
-*   Vladimir Kalnitsky (@klntsky) - Spago
-*   Nicholas Wolverson (@nwolverson) - Spago
-*   Ryan Hendrickson (@rhendric) - Compiler
-*   Steve Baker (@stkb) - Spago
-*   Valtteri Pajunen (@vapaj) - Spago
+*   Alex Berg ([@chexxor](https://github.com/chexxor)) - Documentation, Infrastructure
+*   Justin Woo ([@justinwoo](https://github.com/justinwoo)) - Package Sets
+*   [@btrepp](https://github.com/btrepp) - Spago
+*   Dennis Gosnell ([@cdepillabout](https://github.com/cdepillabout)) - Spago
+*   Gareth Smith ([@Dretch](https://github.com/Dretch)) - Spago
+*   Eric Ahlberg ([@eahlberg](https://github.com/eahlberg)) - Spago
+*   Elliot Davies ([@elliotdavies](https://github.com/elliotdavies)) - Spago
+*   eric ([@ethul](https://github.com/ethul)) - Core libraries
+*   Jan Hrcek ([@jhrcek](https://github.com/jhrcek)) - Spago
+*   Vladimir Kalnitsky ([@klntsky](https://github.com/klntsky)) - Spago
+*   Nicholas Wolverson ([@nwolverson](https://github.com/nwolverson)) - Spago
+*   Ryan Hendrickson ([@rhendric](https://github.com/rhendric)) - Compiler
+*   Steve Baker ([@stkb](https://github.com/stkb)) - Spago
+*   Valtteri Pajunen ([@vapaj](https://github.com/vapaj)) - Spago
 
 Collaborators are encouraged to help out with maintenance in any of the
 following ways (or however else they see fit):
