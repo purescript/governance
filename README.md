@@ -135,7 +135,10 @@ receptive to the needs of the wider community.
 
 ## Pull Requests
 
-Pull requests on the compiler and core library repositories should receive
-approving code reviews from at least two core team members before merging. For pull
-requests which have been made by core team members, only one other core owner's
-approval is required.
+Before merging, pull requests on the compiler and core library repositories
+should receive two approving code reviews: either from two core team members, or
+from one core team member and one compiler/core libraries collaborator (as
+appropriate, depending on the repository). If the PR submitter is a core team
+member or compiler/core libraries collaborator, they can be assumed to have
+approved it, and so the PR would only need one more approval before it could be
+merged.
