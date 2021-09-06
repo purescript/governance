@@ -1,12 +1,12 @@
 # PureScript Community Code of Conduct
 
-The PureScript community follows some simple ground rules to protect safe, inclusive spaces to discuss the PureScript programming language.
+Our community is dedicated to helping people learn and use the PureScript programming language. Our members can't do this if they are being harassed, stalked, or discriminated against. It's also hard to do that if you're regularly made to experience emotionally draining situations or made to wonder whether you belong. Accordingly, all PureScript community members are expected to show respect and courtesy towards each other in all interactions in our community.
 
-All community members are expected to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+We need a common understanding of what it means to "show respect and courtesy towards each other" and so we have adopted the following code of conduct. This code of conduct is enforced by our moderators and applies in all community spaces.
 
-## What's our purpose?
+## Our Purpose
 
-The PureScript community channels are places to discuss the PureScript programming language. 
+The PureScript community spaces are places to discuss the PureScript programming language. In these spaces:
 
 * We talk about the language, its related libraries and infrastructure, and our experiences using it.
 * We help PureScript programmers learn the language, and we ask for help becoming stronger programmers ourselves. 
@@ -14,68 +14,92 @@ The PureScript community channels are places to discuss the PureScript programmi
 * We organize open-source work, meetups, hackathons, and other community events.
 * We discuss what we can do to grow an inclusive, friendly, respectful community.
 
-## What is okay?
+## Unacceptable Behavior
 
-Examples of behavior that contributes to a positive environment for our community include:
+The following types of behavior are unacceptable in the PureScript community and constitute violations of this code of conduct.
 
-* Demonstrating empathy and kindness toward other people.
-* Being respectful of differing opinions, viewpoints, and experiences.
-* Giving and gracefully accepting constructive feedback.
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience.
+This code of conduct is a set of guidelines that helps our community protect safe, inclusive spaces to discuss PureScript. However, it doesn't enumerate all possible forms of unwelcome behavior, and incidents are evaluated on a case-by-case basis so as to understand their full context.
 
-As participants in the PureScript community, we pledge to make participation in our community a harassment-free experience for everyone -- regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+### Abusive behavior
 
-## What is not okay?
+- **Harassment**: making offensive comments related to age, body size, disability, ethnicity, sex characteristics, gender identity and expression, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. This also includes the use of sexualized language or imagery and unwelcome sexual or romantic attention.
+- **Threats**: threatening someone physically, verbally, or otherwise, such as threatening to publicize sensitive information about someone's personal life.
 
-Examples of unacceptable behavior include:
+### Unwelcoming behavior
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind.
-* Trolling, insulting or derogatory comments, and personal or political attacks.
-* Public or private harassment.
-* Publishing others’ private information, such as a physical or email address, without their explicit permission.
-* Other conduct which could reasonably be considered inappropriate in a professional setting.
+- **Prejudice and blatant -isms**: saying things that are explicitly racist, sexist, homophobic, transphobic, ageist, or otherwise harmful expressions of prejudice and bias. For example: arguing that some people are less intelligent because of their gender, race, or religion. Subtle expressions of harmful prejudice can be small mistakes, and aren't considered violations. However, repeating something after it has been pointed out it breaks this rule, or arguing with and antagonizing someone who has pointed it out is considered unwelcoming behavior and is not allowed.
+- **Maliciousness towards other members**: deliberately attempting to make others feel bad, name-calling, or singling others out for derision. For example: telling someone they're a poor programmer.
+- **Being especially unpleasant**: for example, if we've received several reports of annoying, rude, or especially distracting behavior.
 
+The rule around prejudice and blatant -isms is especially complicated because not everyone agrees on what constitutes a violation. Members of the PureScript community live in disparate cultures and speak different languages. Harmful prejudices are baked into society in ways that can make them hard to recognize, and not everyone experiences prejudice in the same way: subtle ageism won't hurt someone who is young in the same way it hurts someone who is older.
 
-## Where does this Code of Conduct apply?
+If you are told that a symbol, phrase, or message is unwelcome, please understand that it is in service of a welcoming community for everyone. It's not a big deal to make an unintentional mistake from time to time. Just apologize and move on.
 
-This code of conduct covers anyone participating in PureScript community channels, including our Discord server, Discourse forum, and GitHub properties. For members of the PureScript team, it applies anywhere they are representing the PureScript project (for example, on social media).
+It is ultimately at the discretion of moderators to decide when a comment or action violates the code of conduct.
 
-## How do members report violations?
+## Enforcement
 
-You can report abusive, harassing, or otherwise unacceptable behavior to the community moderators team or to a particular moderator if you are not comfortable sharing your concern with the full team.
+In the previous section we categorized unacceptable behavior into abuse and unwelcoming behavior. Moderators will respond differently depending on the type of violation that occurs.
 
-All complaints will be reviewed and investigated promptly and fairly. Your communication with moderators will not be shared with anyone else without your permission.
+If we witness or receive a report about abusive behavior, we will contact the perpetrator to verify what has transpired, and they will be removed from the PureScript community. Their Discord and Discourse accounts will be deactivated and they will be removed from PureScript GitHub organizations.
 
-Here are per-platform instructions:
+If we witness or receive a report about unwelcoming behavior, there are several responses we may take:
 
+1. **Correction**: Caused by unwelcoming behavior that could reasonably be a small mistake. A moderator will publicly or privately explain why the behavior is unwelcome and suggest, if necessary, alternate language or behavior that is acceptable.
+2. **Warning**: Caused by repeated unwelcoming behavior, or more serious mistakes. A moderator will issue a private, written warning, explaining the violation and why the behavior is inappropriate. The member may be asked to edit or remove offending messages. A second violation will result in a temporary ban.
+3. **Temporary Ban**: Caused by repeated unwelcoming behavior or a serious violation of community standards. A moderator will temporarily suspend the user's Discord and Discourse accounts and block them from PureScript organizations. The user can still communicate with moderators via email.
+4. **Permanent Ban**: Caused by a repeated pattern of unwelcome behavior or a serious transgression like abusive or threatening behavior. A moderator will deactive the user's Discord and Discourse accounts and permanently block them from PureScript GitHub organizations.
+
+## Scope
+
+PureScript members are held to these standards when interacting at PureScript events or online in official PureScript community spaces including:
+
+- Discourse (https://discourse.purescript.org)
+- Discord (https://purescript.org/chat)
+- GitHub (https://github.com/), under the `purescript`, `purescript-contrib`, `purescript-web`, and `purescript-node` organizations.
+
+The code of conduct also applies anywhere someone is officially representing the PureScript project (for example, on social media or speaking at a conference).
+
+Finally, abusive or unwelcome behavior that occurs outside an official community space can still have a profound impact on individuals and the community. Moderators will use their discretion when deciding whether to enforce this code of conduct and potentially remove someone from the community upon reports of such behavior happening outside of community spaces, taking into account the impact on the individuals and the community.
+
+## Reporting
+
+You can report code of conduct violations to the moderators directly. We will respond as promptly as possible, though a moderator may not always be online at the time of a violation. When moderators receive a report, they will:
+
+**Read the report to determine whether there has been a code of conduct violation**
+
+If there was not a violation, then the moderator will reply to the reporter and explain why not. They may suggest other remediation options. If there was a violation, the moderator will decide if they are the best person to respond or if it should be handed off to another moderator (for example, a moderator who already has a relationship with the reported person).
+
+**Follow up with the reporter**
+
+We will acknowledge we have received the report and are taking action. We'll ask any follow-up questions we need to better understand the situation, and we'll confirm we can contact the reported person.
+  
+**Follow up with the person who violated the code of conduct**
+
+We will reach out to the community member on the platform where they were reported, if possible, or via the best channel we know of to contact them. We'll let them know we received a report and invite them to speak about the incident over chat or, if desired, on a call.
+
+If the report was of abusive behavior or repeated unwelcoming behavior and we are issuing a ban, then we will tell the affected person and then remove them from the community. If the report was of unwelcoming behavior, then we will explain how their behavior violates the code of conduct and what we expect of them moving forward. We may warn them that a second violation will result in them being removed from the community.
+
+### Instructions by Platform
+
+* Discourse: Send a direct message to a moderator. Moderators are [listed on the about page](https://discourse.purescript.org/about).
 * Discord: Send a private message to the `@Moderators` team. To find a specific moderator to message, use the members sidebar under the `Moderators` role to find their profile.
-* Discourse: Send a private message to the `moderators` group. To find a specific moderator to message, see the `moderators` group page: https://discourse.purescript.org/g/moderators
-* All Other: If an event occurs somewhere else, please reach out to moderators on either Discord or Discourse.
+* Other: If an event occurs somewhere else, please reach out to moderators on either Discord or Discourse.
 
-## How will you enforce the rules?
+If you need to report a particular moderator, please make your report to a different moderator. They will follow the same process as usual, but the reported moderator will be considered simply the reported person while the incident is handled. The same confidentiality guarantees will still protect you.
 
-Our community leaders follow the below guidelines to determine the consequences for any action they deem in violation of this Code of Conduct:
+## Confidentiality
 
-1. **Correction**
+We keep all reports confidential, except if we have discussed it with you and agreed otherwise. When we discuss incidents with people who are reported we will anonymize details as much as possible to preserve the privacy of the reporter.
 
-   Cause: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+However, some incidents happen in one-on-one interactions, and even if the details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, and do not want us to share the details of your report with anyone (including the perpetrator) please let us know explicitly in your report. Unfortunately, in that situation we will not be able to take any action.
 
-   Consequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+In some cases we may decide to share an update about a major incident with the community. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
-2. **Warning**
+## Acknowledgements
 
-   Cause: A violation through a single incident or series of actions.
+This Code of Conduct draws inspiration from:
 
-   Consequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. Violating these terms may lead to a temporary or permanent ban.
-
-3. **Temporary Ban**
-
-   Cause: A serious violation of community standards, including sustained inappropriate behavior.
-
-   Consequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
-
-4. **Permanent Ban**
-
-   Cause: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
-
-   Consequence: A permanent ban from any sort of public interaction within the community.
+- [The Contributor Covenant](https://www.contributor-covenant.org)
+- [The Recurse Code of Conduct](https://www.recurse.com/code-of-conduct)
+- [The Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
