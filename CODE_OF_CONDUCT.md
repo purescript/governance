@@ -9,16 +9,14 @@ We need a common understanding of what it means to "show respect and courtesy to
 The PureScript community spaces are places to discuss the PureScript programming language. In these spaces:
 
 * We talk about the language, its related libraries and infrastructure, and our experiences using it.
-* We help PureScript programmers learn the language, and we ask for help becoming stronger programmers ourselves. 
+* We help PureScript programmers learn the language and we ask for help becoming stronger programmers ourselves. 
 * We discuss general functional programming concepts and other parts of programming, type theory, and mathematics that are relevant to Purescript.
 * We organize open-source work, meetups, hackathons, and other community events.
-* We discuss what we can do to grow an inclusive, friendly, respectful community.
+* We discuss what we can do to grow an inclusive, friendly, and respectful community.
 
 ## Unacceptable Behavior
 
 The following types of behavior are unacceptable in the PureScript community and constitute violations of this code of conduct.
-
-This code of conduct is a set of guidelines that helps our community protect safe, inclusive spaces to discuss PureScript. However, it doesn't enumerate all possible forms of unwelcome behavior, and incidents are evaluated on a case-by-case basis so as to understand their full context.
 
 ### Abusive behavior
 
@@ -27,15 +25,13 @@ This code of conduct is a set of guidelines that helps our community protect saf
 
 ### Unwelcoming behavior
 
-- **Prejudice and blatant -isms**: saying things that are explicitly racist, sexist, homophobic, transphobic, ageist, or otherwise harmful expressions of prejudice and bias. For example: arguing that some people are less intelligent because of their gender, race, or religion. Subtle expressions of harmful prejudice can be small mistakes, and aren't considered violations. However, repeating something after it has been pointed out it breaks this rule, or arguing with and antagonizing someone who has pointed it out is considered unwelcoming behavior and is not allowed.
+- **Prejudice and blatant -isms**: saying things that are explicitly racist, sexist, homophobic, transphobic, ageist, or otherwise harmful expressions of prejudice and bias. For example: arguing that some people are less intelligent because of their gender, race, or religion. Subtle expressions of harmful prejudice can be small mistakes, and aren't considered violations. However, repeating something after it has been pointed out it breaks this rule, and arguing with or antagonizing someone who has pointed it out is considered unwelcoming behavior and is not allowed.
 - **Maliciousness towards other members**: deliberately attempting to make others feel bad, name-calling, or singling others out for derision. For example: telling someone they're a poor programmer.
 - **Being especially unpleasant**: for example, if we've received several reports of annoying, rude, or especially distracting behavior.
 
 The rule around prejudice and blatant -isms is especially complicated because not everyone agrees on what constitutes a violation. Members of the PureScript community live in disparate cultures and speak different languages. Harmful prejudices are baked into society in ways that can make them hard to recognize, and not everyone experiences prejudice in the same way: subtle ageism won't hurt someone who is young in the same way it hurts someone who is older.
 
-If you are told that a symbol, phrase, or message is unwelcome, please understand that it is in service of a welcoming community for everyone. It's not a big deal to make an unintentional mistake from time to time. Just apologize and move on.
-
-It is ultimately at the discretion of moderators to decide when a comment or action violates the code of conduct.
+If you are told that a symbol, phrase, or message is unwelcome, please understand that it is in service of a welcoming community for everyone. It's not a big deal for community members to make an mistake from time to time. Please apologize and move on.
 
 ## Enforcement
 
@@ -49,6 +45,8 @@ If we witness or receive a report about unwelcoming behavior, there are several 
 2. **Warning**: Caused by repeated unwelcoming behavior, or more serious mistakes. A moderator will issue a private, written warning, explaining the violation and why the behavior is inappropriate. The member may be asked to edit or remove offending messages. A second violation will result in a temporary ban.
 3. **Temporary Ban**: Caused by repeated unwelcoming behavior or a serious violation of community standards. A moderator will temporarily suspend the user's Discord and Discourse accounts and block them from PureScript organizations. The user can still communicate with moderators via email.
 4. **Permanent Ban**: Caused by a repeated pattern of unwelcome behavior or a serious transgression like abusive or threatening behavior. A moderator will deactive the user's Discord and Discourse accounts and permanently block them from PureScript GitHub organizations.
+
+This code of conduct is a set of guidelines that helps our community protect safe, inclusive spaces to discuss PureScript. However, it doesn't enumerate all possible forms of unwelcome behavior, and incidents are evaluated on a case-by-case basis so as to understand their full context.
 
 ## Scope
 
