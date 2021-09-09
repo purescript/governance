@@ -10,7 +10,7 @@ The PureScript community spaces are places to discuss the PureScript programming
 
 * We talk about the language, its related libraries and infrastructure, and our experiences using it.
 * We help PureScript programmers learn the language and we ask for help becoming stronger programmers ourselves. 
-* We discuss general functional programming concepts and other parts of programming, type theory, and mathematics that are relevant to Purescript.
+* We discuss general functional programming concepts and other parts of programming, type theory, and mathematics that are relevant to PureScript.
 * We organize open-source work, meetups, hackathons, and other community events.
 * We discuss what we can do to grow an inclusive, friendly, and respectful community.
 
