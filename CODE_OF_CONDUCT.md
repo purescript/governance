@@ -37,7 +37,7 @@ If you are told that a symbol, phrase, or message is unwelcome, please apologize
 
 In the previous section we categorized unacceptable behavior into abuse and unwelcoming behavior. Moderators will respond differently depending on the type of violation that occurs.
 
-If we witness or receive a report about abusive behavior, we will contact the perpetrator to verify what has transpired, and they will be removed from the PureScript community. Their Discord and Discourse accounts will be deactivated and they will be removed from PureScript GitHub organizations.
+If we witness or receive a report about abusive behavior, we will contact the complainee and investigate the details of the incident. In the event that the incident constitutes abusive behavior in the opinion of the moderation team, the perpetrator will be removed from the PureScript community. Their Discord and Discourse accounts will be deactivated and they will be removed from PureScript GitHub organizations.
 
 If we witness or receive a report about unwelcoming behavior, there are several responses we may take:
 
