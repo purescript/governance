@@ -31,7 +31,7 @@ The following types of behavior are unacceptable in the PureScript community and
 
 The rule around prejudice and blatant -isms is especially complicated because not everyone agrees on what constitutes a violation. Members of the PureScript community live in disparate cultures and speak different languages. Harmful prejudices are baked into society in ways that can make them hard to recognize, and not everyone experiences prejudice in the same way: subtle ageism won't hurt someone who is young in the same way it hurts someone who is older.
 
-If you are told that a symbol, phrase, or message is unwelcome, please apologize and move on. It's not a big deal for community members to make a mistake from time to time.
+If you are told by a moderator that a symbol, phrase, or message is unwelcome, please apologize and move on. It's not a big deal for community members to make a mistake from time to time.
 
 ## Enforcement
 
