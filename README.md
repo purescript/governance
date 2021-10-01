@@ -41,7 +41,6 @@ direction and development.
 
 The core organization team members are:
 
-*   Harry Garrood ([@hdgarrood](https://github.com/hdgarrood))
 *   Gary Burgess ([@garyb](https://github.com/garyb))
 *   Liam Goodacre ([@LiamGoodacre](https://github.com/LiamGoodacre))
 *   Christoph Hegemann ([@kritzcreek](https://github.com/kritzcreek))
