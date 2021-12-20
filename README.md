@@ -51,6 +51,8 @@ The core organization team members are:
 *   Jordan Martinez ([@JordanMartinez](https://github.com/JordanMartinez))
 *   Nicholas Scheel ([@MonoidMusician](https://github.com/MonoidMusician))
 *   Thomas Honeyman ([@thomashoneyman](https://github.com/thomashoneyman))
+*   Nicholas Wolverson ([@nwolverson](https://github.com/nwolverson))
+*   Ryan Hendrickson ([@rhendric](https://github.com/rhendric))
 
 Core team members have demonstrated a long-term commitment to maintaining
 central components of the ecosystem such as the compiler, core libraries,
@@ -80,13 +82,14 @@ include:
 *   Gareth Smith ([@Dretch](https://github.com/Dretch)) - Spago
 *   Eric Ahlberg ([@eahlberg](https://github.com/eahlberg)) - Spago
 *   Elliot Davies ([@elliotdavies](https://github.com/elliotdavies)) - Spago
-*   eric ([@ethul](https://github.com/ethul)) - Core libraries
+*   Eric Thul ([@ethul](https://github.com/ethul)) - Core libraries
 *   Jan Hrcek ([@jhrcek](https://github.com/jhrcek)) - Spago
 *   Vladimir Kalnitsky ([@klntsky](https://github.com/klntsky)) - Spago
-*   Nicholas Wolverson ([@nwolverson](https://github.com/nwolverson)) - Spago
-*   Ryan Hendrickson ([@rhendric](https://github.com/rhendric)) - Compiler
 *   Steve Baker ([@stkb](https://github.com/stkb)) - Spago
 *   Valtteri Pajunen ([@vapaj](https://github.com/vapaj)) - Spago
+*   Colin Wahl ([@colinwahl](https://github.com/colinwahl)) - Registry, Spago
+*   Miles Frain ([@milesfrain](https://github.com/milesfrain)) - Book
+*   Mike Solomon ([@mikesol](https://github.com/mikesol)) - Survey
 
 Collaborators are encouraged to help out with maintenance in any of the
 following ways (or however else they see fit):
