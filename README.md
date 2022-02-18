@@ -49,7 +49,7 @@ The core organization team members are:
 *   Cyril Sobierajewicz ([@kl0tl](https://github.com/kl0tl))
 *   Fabrizio Ferrai ([@f-f](https://github.com/f-f))
 *   Jordan Martinez ([@JordanMartinez](https://github.com/JordanMartinez))
-*   Nicholas Scheel ([@MonoidMusician](https://github.com/MonoidMusician))
+*   Verity Scheel ([@MonoidMusician](https://github.com/MonoidMusician))
 *   Thomas Honeyman ([@thomashoneyman](https://github.com/thomashoneyman))
 *   Nicholas Wolverson ([@nwolverson](https://github.com/nwolverson))
 *   Ryan Hendrickson ([@rhendric](https://github.com/rhendric))
