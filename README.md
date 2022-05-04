@@ -90,6 +90,7 @@ include:
 *   Colin Wahl ([@colinwahl](https://github.com/colinwahl)) - Registry, Spago
 *   Miles Frain ([@milesfrain](https://github.com/milesfrain)) - Book
 *   Mike Solomon ([@mikesol](https://github.com/mikesol)) - Survey
+*   Justin Garcia ([@PureFunctor](https://github.com/purefunctor)) - Compiler
 
 Collaborators are encouraged to help out with maintenance in any of the
 following ways (or however else they see fit):
