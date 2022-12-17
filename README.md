@@ -54,6 +54,7 @@ The core organization team members are:
 *   Nicholas Wolverson ([@nwolverson](https://github.com/nwolverson))
 *   Ryan Hendrickson ([@rhendric](https://github.com/rhendric))
 *   Justin Garcia ([@PureFunctor](https://github.com/PureFunctor))
+*   Mike Solomon ([@mikesol](https://github.com/mikesol))
 
 Core team members have demonstrated a long-term commitment to maintaining
 central components of the ecosystem such as the compiler, core libraries,
@@ -90,7 +91,6 @@ include:
 *   Valtteri Pajunen ([@vapaj](https://github.com/vapaj)) - Spago
 *   Colin Wahl ([@colinwahl](https://github.com/colinwahl)) - Registry, Spago
 *   Miles Frain ([@milesfrain](https://github.com/milesfrain)) - Book
-*   Mike Solomon ([@mikesol](https://github.com/mikesol)) - Survey
 
 Collaborators are encouraged to help out with maintenance in any of the
 following ways (or however else they see fit):
