@@ -107,6 +107,14 @@ following ways (or however else they see fit):
 *   Core team members may choose to step down and become core collaborators, or choose to leave the organization entirely, at any time.
 *   Core collaborators may be promoted to core team members at the discretion of the rest of the core team members.
 
+#### Onboarding checklist
+
+Checklist of things that will need to happen when a new Core Team member is inducted:
+- Add them to the Core Team on GitHub
+- Add them to the Core Team on Discord
+- Open a Pull Request to this document to add them to the list
+- Announcement on Discourse
+
 ## Making Decisions
 
 Most decisions which directly concern the language, compiler, or core libraries
