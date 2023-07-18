@@ -144,6 +144,13 @@ time, a decision can always be considered to have been approved.
 Core team members have the final say in decisions, although they are expected to be
 receptive to the needs of the wider community.
 
+## Internal Discussions
+
+Non-public privacy-respecting discussions can be found via the following team-based discussion boards:
+- [Core Team Discussions](https://github.com/purescript/core-team-discussions/discussions)
+- [Infrastructure Team Discussions](https://github.com/purescript/infra-team-discussions/discussions)
+- [Compiler Team Discussions](https://github.com/purescript/compiler-team-discussions/discussions)
+
 ## Pull Requests
 
 Before merging, pull requests on the compiler and core library repositories
