@@ -48,7 +48,6 @@ The core organization team members are:
 *   Nathan Faubion ([@natefaubion](https://github.com/natefaubion))
 *   Cyril Sobierajewicz ([@kl0tl](https://github.com/kl0tl))
 *   Fabrizio Ferrai ([@f-f](https://github.com/f-f))
-*   Jordan Martinez ([@JordanMartinez](https://github.com/JordanMartinez))
 *   Verity Scheel ([@MonoidMusician](https://github.com/MonoidMusician))
 *   Thomas Honeyman ([@thomashoneyman](https://github.com/thomashoneyman))
 *   Nicholas Wolverson ([@nwolverson](https://github.com/nwolverson))
